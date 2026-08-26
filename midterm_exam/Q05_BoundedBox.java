@@ -1,4 +1,3 @@
-package midterm_exam;
 
 import java.util.ArrayList;
 import java.util.List;

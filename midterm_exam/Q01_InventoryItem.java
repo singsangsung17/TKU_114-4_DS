@@ -1,4 +1,3 @@
-package midterm_exam;
 
 public class Q01_InventoryItem {
     private final String id;

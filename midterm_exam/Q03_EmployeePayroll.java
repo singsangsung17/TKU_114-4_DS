@@ -1,4 +1,3 @@
-package midterm_exam;
 
 public class Q03_EmployeePayroll {
     public static abstract class Employee {

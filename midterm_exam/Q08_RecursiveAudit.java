@@ -1,4 +1,3 @@
-package midterm_exam;
 
 public class Q08_RecursiveAudit {
     public static int sumValid(int[] data, int index) {
