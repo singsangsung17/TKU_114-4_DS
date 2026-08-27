@@ -1,5 +1,11 @@
 {
-"java.project.sourcePaths": ["0818", "0819", "0820", "midterm_exam"],
+"java.project.sourcePaths": [
+    "midterm_exam",
+    "0820",
+    "0819",
+    "0818",
+    "0825"
+],
 
 "java.project.outputPath": "bin"
 }
